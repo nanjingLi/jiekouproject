@@ -1,0 +1,1123 @@
+2019-09-08 16:28:37,251 - [test_login.py --> line:36] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-08 16:28:37,387 - [test_login.py --> line:36] - DEBUG: 账户不正确，登陆失败,该条用例执行通过
+2019-09-08 16:28:37,507 - [test_login.py --> line:36] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-08 16:28:37,640 - [test_login.py --> line:36] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-08 16:28:37,759 - [test_login.py --> line:36] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-08 16:28:37,848 - [test_login.py --> line:36] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-08 16:28:37,939 - [test_login.py --> line:36] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-08 16:31:46,082 - [run.py --> line:8] - INFO: -----------开始启动测试用例----------
+2019-09-08 16:31:49,926 - [test_login.py --> line:36] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-08 16:31:50,106 - [test_login.py --> line:36] - DEBUG: 账户不正确，登陆失败,该条用例执行通过
+2019-09-08 16:31:50,224 - [test_login.py --> line:36] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-08 16:31:50,349 - [test_login.py --> line:36] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-08 16:31:50,478 - [test_login.py --> line:36] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-08 16:31:50,600 - [test_login.py --> line:36] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-08 16:31:50,712 - [test_login.py --> line:36] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-08 16:31:50,714 - [run.py --> line:23] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-08 17:37:41,539 - [run.py --> line:11] - INFO: -----------开始启动测试用例----------
+2019-09-08 17:37:50,990 - [test_login.py --> line:39] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-08 17:37:51,098 - [test_login.py --> line:39] - DEBUG: 账户不正确，登陆失败,该条用例执行通过
+2019-09-08 17:37:51,230 - [test_login.py --> line:39] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-08 17:37:51,348 - [test_login.py --> line:39] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-08 17:37:51,466 - [test_login.py --> line:39] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-08 17:37:51,557 - [test_login.py --> line:39] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-08 17:37:51,647 - [test_login.py --> line:39] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-08 17:37:51,648 - [run.py --> line:26] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-08 18:40:30,600 - [run.py --> line:11] - INFO: -----------开始启动测试用例----------
+2019-09-08 18:40:38,964 - [run.py --> line:26] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-08 18:42:57,695 - [run.py --> line:11] - INFO: -----------开始启动测试用例----------
+2019-09-08 18:43:06,670 - [test_login.py --> line:39] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-08 18:43:06,798 - [test_login.py --> line:34] - DEBUG: 账户不正确，登陆失败,该条用例执行未通过
+2019-09-08 18:43:06,960 - [test_login.py --> line:39] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-08 18:43:07,106 - [test_login.py --> line:39] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-08 18:43:07,230 - [test_login.py --> line:39] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-08 18:43:07,335 - [test_login.py --> line:39] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-08 18:43:07,427 - [test_login.py --> line:39] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-08 18:43:07,442 - [run.py --> line:26] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-08 18:45:31,762 - [run.py --> line:11] - INFO: -----------开始启动测试用例----------
+2019-09-08 18:45:35,231 - [test_login.py --> line:39] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-08 18:45:35,375 - [test_login.py --> line:34] - DEBUG: 账户不正确，登陆失败,该条用例执行未通过
+2019-09-08 18:45:35,516 - [test_login.py --> line:39] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-08 18:45:35,637 - [test_login.py --> line:39] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-08 18:45:35,759 - [test_login.py --> line:39] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-08 18:45:35,858 - [test_login.py --> line:39] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-08 18:45:35,962 - [test_login.py --> line:39] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-08 18:45:35,963 - [run.py --> line:26] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-08 18:50:41,595 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-08 18:51:23,496 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-08 18:51:27,182 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-08 18:52:26,927 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-08 18:52:51,865 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-08 18:52:55,690 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-08 18:54:34,636 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-08 18:54:37,942 - [test_login.py --> line:39] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-08 18:54:38,066 - [test_login.py --> line:34] - DEBUG: 账户不正确，登陆失败,该条用例执行未通过
+2019-09-08 18:54:38,201 - [test_login.py --> line:39] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-08 18:54:38,317 - [test_login.py --> line:39] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-08 18:54:38,445 - [test_login.py --> line:39] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-08 18:54:38,542 - [test_login.py --> line:39] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-08 18:54:38,631 - [test_login.py --> line:39] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-08 18:54:38,632 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-08 18:56:17,476 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-08 18:56:20,712 - [test_login.py --> line:39] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-08 18:56:20,826 - [test_login.py --> line:34] - DEBUG: 账户不正确，登陆失败,该条用例执行未通过
+2019-09-08 18:56:20,942 - [test_login.py --> line:39] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-08 18:56:21,094 - [test_login.py --> line:39] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-08 18:56:21,215 - [test_login.py --> line:39] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-08 18:56:21,315 - [test_login.py --> line:39] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-08 18:56:21,414 - [test_login.py --> line:39] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-08 18:56:21,415 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-08 19:00:42,141 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-08 19:00:50,452 - [test_login.py --> line:39] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-08 19:00:50,601 - [test_login.py --> line:34] - DEBUG: 账户不正确，登陆失败,该条用例执行未通过
+2019-09-08 19:00:50,735 - [test_login.py --> line:39] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-08 19:00:50,854 - [test_login.py --> line:39] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-08 19:00:50,986 - [test_login.py --> line:39] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-08 19:00:51,099 - [test_login.py --> line:39] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-08 19:00:51,199 - [test_login.py --> line:39] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-08 19:00:51,207 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-08 19:06:48,059 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-08 19:06:54,654 - [test_login.py --> line:39] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-08 19:06:54,785 - [test_login.py --> line:34] - DEBUG: 账户不正确，登陆失败,该条用例执行未通过
+2019-09-08 19:06:54,955 - [test_login.py --> line:39] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-08 19:06:55,106 - [test_login.py --> line:39] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-08 19:06:55,222 - [test_login.py --> line:39] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-08 19:06:55,317 - [test_login.py --> line:39] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-08 19:06:55,416 - [test_login.py --> line:39] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-08 19:06:55,424 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-08 19:10:08,237 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-08 19:10:17,066 - [test_login.py --> line:39] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-08 19:10:17,199 - [test_login.py --> line:34] - DEBUG: 账户不正确，登陆失败,该条用例执行未通过
+2019-09-08 19:10:17,384 - [test_login.py --> line:39] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-08 19:10:17,512 - [test_login.py --> line:39] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-08 19:10:17,641 - [test_login.py --> line:39] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-08 19:10:17,767 - [test_login.py --> line:39] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-08 19:10:17,906 - [test_login.py --> line:39] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-08 19:10:18,044 - [test_login.py --> line:63] - DEBUG: 注册成功（有昵称）,该条用例执行未通过
+2019-09-08 19:10:18,215 - [test_login.py --> line:68] - DEBUG: 已经注册,该条用例执行通过
+2019-09-08 19:10:18,319 - [test_login.py --> line:68] - DEBUG: 手机号码小于11位,该条用例执行通过
+2019-09-08 19:10:18,425 - [test_login.py --> line:68] - DEBUG: 手机号码存在非数字,该条用例执行通过
+2019-09-08 19:10:18,532 - [test_login.py --> line:68] - DEBUG: 手机号为空,该条用例执行通过
+2019-09-08 19:10:18,657 - [test_login.py --> line:68] - DEBUG: 手机号码超11位,该条用例执行通过
+2019-09-08 19:10:18,752 - [test_login.py --> line:68] - DEBUG: 手机号正确，密码小于6位,该条用例执行通过
+2019-09-08 19:10:18,851 - [test_login.py --> line:68] - DEBUG: 手机号正确，密码大于18位,该条用例执行通过
+2019-09-08 19:10:18,975 - [test_login.py --> line:63] - DEBUG: 手机号正确，密码等于6位,该条用例执行未通过
+2019-09-08 19:10:19,095 - [test_login.py --> line:63] - DEBUG: 手机号正确，密码等于18位,该条用例执行未通过
+2019-09-08 19:10:19,202 - [test_login.py --> line:68] - DEBUG: 手机号正确，密码为空,该条用例执行通过
+2019-09-08 19:10:19,318 - [test_login.py --> line:63] - DEBUG: 注册成功（无昵称）,该条用例执行未通过
+2019-09-08 19:10:19,319 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-10 19:34:17,769 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-10 19:34:31,233 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-10 19:34:44,017 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-10 19:34:48,134 - [test_login.py --> line:40] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-10 19:34:48,253 - [test_login.py --> line:35] - DEBUG: 账户不正确，登陆失败,该条用例执行未通过
+2019-09-10 19:34:48,398 - [test_login.py --> line:40] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-10 19:34:48,566 - [test_login.py --> line:40] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-10 19:34:48,686 - [test_login.py --> line:40] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-10 19:34:48,808 - [test_login.py --> line:40] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-10 19:34:48,916 - [test_login.py --> line:40] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-10 19:34:49,120 - [test_login.py --> line:70] - DEBUG: 注册成功（有昵称）,该条用例执行未通过
+2019-09-10 19:34:49,837 - [test_login.py --> line:70] - DEBUG: 手机号正确，密码等于6位,该条用例执行未通过
+2019-09-10 19:34:49,968 - [test_login.py --> line:70] - DEBUG: 手机号正确，密码等于18位,该条用例执行未通过
+2019-09-10 19:34:50,253 - [test_login.py --> line:70] - DEBUG: 注册成功（无昵称）,该条用例执行未通过
+2019-09-10 19:34:50,254 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-10 19:40:46,188 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-10 19:40:51,597 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-10 19:40:58,921 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-10 19:41:03,771 - [test_login.py --> line:40] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-10 19:41:03,902 - [test_login.py --> line:35] - DEBUG: 账户不正确，登陆失败,该条用例执行未通过
+2019-09-10 19:41:04,016 - [test_login.py --> line:40] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-10 19:41:04,160 - [test_login.py --> line:40] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-10 19:41:04,307 - [test_login.py --> line:40] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-10 19:41:04,427 - [test_login.py --> line:40] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-10 19:41:04,530 - [test_login.py --> line:40] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-10 19:41:04,709 - [test_login.py --> line:70] - DEBUG: 注册成功（有昵称）,该条用例执行未通过
+2019-09-10 19:41:04,848 - [test_login.py --> line:75] - DEBUG: 已经注册,该条用例执行通过
+2019-09-10 19:41:04,986 - [test_login.py --> line:75] - DEBUG: 手机号码小于11位,该条用例执行通过
+2019-09-10 19:41:05,083 - [test_login.py --> line:75] - DEBUG: 手机号码存在非数字,该条用例执行通过
+2019-09-10 19:41:05,182 - [test_login.py --> line:75] - DEBUG: 手机号为空,该条用例执行通过
+2019-09-10 19:41:05,274 - [test_login.py --> line:75] - DEBUG: 手机号码超11位,该条用例执行通过
+2019-09-10 19:41:05,372 - [test_login.py --> line:75] - DEBUG: 手机号正确，密码小于6位,该条用例执行通过
+2019-09-10 19:41:05,486 - [test_login.py --> line:75] - DEBUG: 手机号正确，密码大于18位,该条用例执行通过
+2019-09-10 19:41:05,609 - [test_login.py --> line:70] - DEBUG: 手机号正确，密码等于6位,该条用例执行未通过
+2019-09-10 19:41:05,736 - [test_login.py --> line:70] - DEBUG: 手机号正确，密码等于18位,该条用例执行未通过
+2019-09-10 19:41:05,829 - [test_login.py --> line:75] - DEBUG: 手机号正确，密码为空,该条用例执行通过
+2019-09-10 19:41:06,005 - [test_login.py --> line:70] - DEBUG: 注册成功（无昵称）,该条用例执行未通过
+2019-09-10 19:41:06,007 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-10 19:42:45,198 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-10 19:42:48,959 - [test_login.py --> line:40] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-10 19:42:49,116 - [test_login.py --> line:35] - DEBUG: 账户不正确，登陆失败,该条用例执行未通过
+2019-09-10 19:42:49,249 - [test_login.py --> line:40] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-10 19:42:49,363 - [test_login.py --> line:40] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-10 19:42:49,525 - [test_login.py --> line:40] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-10 19:42:49,632 - [test_login.py --> line:40] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-10 19:42:49,722 - [test_login.py --> line:40] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-10 19:42:49,967 - [test_login.py --> line:75] - DEBUG: 注册成功（有昵称）,该条用例执行通过
+2019-09-10 19:42:50,640 - [test_login.py --> line:70] - DEBUG: 手机号正确，密码等于6位,该条用例执行未通过
+2019-09-10 19:42:50,766 - [test_login.py --> line:70] - DEBUG: 手机号正确，密码等于18位,该条用例执行未通过
+2019-09-10 19:42:51,082 - [test_login.py --> line:70] - DEBUG: 注册成功（无昵称）,该条用例执行未通过
+2019-09-10 19:42:51,083 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-10 19:54:22,736 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-10 19:54:26,730 - [test_login.py --> line:40] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-10 19:54:26,865 - [test_login.py --> line:40] - DEBUG: 账户不正确，登陆失败,该条用例执行通过
+2019-09-10 19:54:26,999 - [test_login.py --> line:40] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-10 19:54:27,141 - [test_login.py --> line:40] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-10 19:54:27,282 - [test_login.py --> line:40] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-10 19:54:27,408 - [test_login.py --> line:40] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-10 19:54:27,512 - [test_login.py --> line:40] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-10 19:54:27,754 - [test_login.py --> line:75] - DEBUG: 注册成功（有昵称）,该条用例执行通过
+2019-09-10 19:54:28,444 - [test_login.py --> line:70] - DEBUG: 手机号正确，密码等于6位,该条用例执行未通过
+2019-09-10 19:54:28,579 - [test_login.py --> line:70] - DEBUG: 手机号正确，密码等于18位,该条用例执行未通过
+2019-09-10 19:54:28,887 - [test_login.py --> line:70] - DEBUG: 注册成功（无昵称）,该条用例执行未通过
+2019-09-10 19:54:28,889 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-10 20:06:58,283 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-10 20:07:04,956 - [test_login.py --> line:40] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-10 20:07:05,089 - [test_login.py --> line:40] - DEBUG: 账户不正确，登陆失败,该条用例执行通过
+2019-09-10 20:07:05,229 - [test_login.py --> line:40] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-10 20:07:05,349 - [test_login.py --> line:40] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-10 20:07:05,500 - [test_login.py --> line:40] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-10 20:07:05,595 - [test_login.py --> line:40] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-10 20:07:05,686 - [test_login.py --> line:40] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-10 20:07:05,930 - [test_login.py --> line:75] - DEBUG: 注册成功（有昵称）,该条用例执行通过
+2019-09-10 20:07:06,665 - [test_login.py --> line:70] - DEBUG: 手机号正确，密码等于6位,该条用例执行未通过
+2019-09-10 20:07:06,791 - [test_login.py --> line:70] - DEBUG: 手机号正确，密码等于18位,该条用例执行未通过
+2019-09-10 20:07:07,106 - [test_login.py --> line:75] - DEBUG: 注册成功（无昵称）,该条用例执行通过
+2019-09-10 20:07:07,107 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-10 20:12:58,059 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-10 20:13:01,305 - [test_login.py --> line:40] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-10 20:13:01,483 - [test_login.py --> line:40] - DEBUG: 账户不正确，登陆失败,该条用例执行通过
+2019-09-10 20:13:01,650 - [test_login.py --> line:40] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-10 20:13:01,780 - [test_login.py --> line:40] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-10 20:13:01,914 - [test_login.py --> line:40] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-10 20:13:02,006 - [test_login.py --> line:40] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-10 20:13:02,100 - [test_login.py --> line:40] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-10 20:13:02,324 - [test_login.py --> line:69] - DEBUG: 注册成功（有昵称）,该条用例执行未通过
+2019-09-10 20:13:03,020 - [test_login.py --> line:69] - DEBUG: 手机号正确，密码等于6位,该条用例执行未通过
+2019-09-10 20:13:03,145 - [test_login.py --> line:69] - DEBUG: 手机号正确，密码等于18位,该条用例执行未通过
+2019-09-10 20:13:03,463 - [test_login.py --> line:69] - DEBUG: 注册成功（无昵称）,该条用例执行未通过
+2019-09-10 20:13:03,464 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-10 20:14:26,252 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-10 20:14:29,556 - [test_login.py --> line:40] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-10 20:14:29,679 - [test_login.py --> line:40] - DEBUG: 账户不正确，登陆失败,该条用例执行通过
+2019-09-10 20:14:29,811 - [test_login.py --> line:40] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-10 20:14:29,936 - [test_login.py --> line:40] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-10 20:14:30,067 - [test_login.py --> line:40] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-10 20:14:30,158 - [test_login.py --> line:40] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-10 20:14:30,249 - [test_login.py --> line:40] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-10 20:14:30,502 - [test_login.py --> line:69] - DEBUG: 注册成功（有昵称）,该条用例执行未通过
+2019-09-10 20:14:31,203 - [test_login.py --> line:69] - DEBUG: 手机号正确，密码等于6位,该条用例执行未通过
+2019-09-10 20:14:31,393 - [test_login.py --> line:69] - DEBUG: 手机号正确，密码等于18位,该条用例执行未通过
+2019-09-10 20:14:31,686 - [test_login.py --> line:69] - DEBUG: 注册成功（无昵称）,该条用例执行未通过
+2019-09-10 20:14:31,688 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-10 20:18:05,239 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-10 20:18:10,050 - [test_login.py --> line:40] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-10 20:18:10,177 - [test_login.py --> line:40] - DEBUG: 账户不正确，登陆失败,该条用例执行通过
+2019-09-10 20:18:10,309 - [test_login.py --> line:40] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-10 20:18:10,435 - [test_login.py --> line:40] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-10 20:18:10,569 - [test_login.py --> line:40] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-10 20:18:10,672 - [test_login.py --> line:40] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-10 20:18:10,772 - [test_login.py --> line:40] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-10 20:18:10,997 - [test_login.py --> line:70] - DEBUG: 注册成功（有昵称）,该条用例执行未通过
+2019-09-10 20:18:10,997 - [test_login.py --> line:71] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-10 20:18:10,997 - [test_login.py --> line:72] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "D:\class21_api_project\testcases\test_login.py", line 66, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "D:\python\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python\lib\unittest\case.py", line 1112, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\python\lib\unittest\case.py", line 666, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-10 20:18:11,720 - [test_login.py --> line:70] - DEBUG: 手机号正确，密码等于6位,该条用例执行未通过
+2019-09-10 20:18:11,720 - [test_login.py --> line:71] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-10 20:18:11,720 - [test_login.py --> line:72] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "D:\class21_api_project\testcases\test_login.py", line 66, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "D:\python\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python\lib\unittest\case.py", line 1112, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\python\lib\unittest\case.py", line 666, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-10 20:18:11,839 - [test_login.py --> line:70] - DEBUG: 手机号正确，密码等于18位,该条用例执行未通过
+2019-09-10 20:18:11,840 - [test_login.py --> line:71] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-10 20:18:11,840 - [test_login.py --> line:72] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "D:\class21_api_project\testcases\test_login.py", line 66, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "D:\python\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python\lib\unittest\case.py", line 1112, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\python\lib\unittest\case.py", line 666, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-10 20:18:12,147 - [test_login.py --> line:70] - DEBUG: 注册成功（无昵称）,该条用例执行未通过
+2019-09-10 20:18:12,147 - [test_login.py --> line:71] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-10 20:18:12,147 - [test_login.py --> line:72] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "D:\class21_api_project\testcases\test_login.py", line 66, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "D:\python\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python\lib\unittest\case.py", line 1112, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\python\lib\unittest\case.py", line 666, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-10 20:18:12,149 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-10 20:18:27,676 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-10 20:18:31,463 - [test_login.py --> line:40] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-10 20:18:31,583 - [test_login.py --> line:40] - DEBUG: 账户不正确，登陆失败,该条用例执行通过
+2019-09-10 20:18:31,699 - [test_login.py --> line:40] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-10 20:18:31,838 - [test_login.py --> line:40] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-10 20:18:31,969 - [test_login.py --> line:40] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-10 20:18:32,070 - [test_login.py --> line:40] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-10 20:18:32,173 - [test_login.py --> line:40] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-10 20:18:32,417 - [test_login.py --> line:70] - DEBUG: 注册成功（有昵称）,该条用例执行未通过
+2019-09-10 20:18:32,417 - [test_login.py --> line:72] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "D:\class21_api_project\testcases\test_login.py", line 66, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "D:\python\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python\lib\unittest\case.py", line 1112, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\python\lib\unittest\case.py", line 666, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-10 20:18:33,134 - [test_login.py --> line:70] - DEBUG: 手机号正确，密码等于6位,该条用例执行未通过
+2019-09-10 20:18:33,134 - [test_login.py --> line:72] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "D:\class21_api_project\testcases\test_login.py", line 66, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "D:\python\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python\lib\unittest\case.py", line 1112, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\python\lib\unittest\case.py", line 666, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-10 20:18:33,261 - [test_login.py --> line:70] - DEBUG: 手机号正确，密码等于18位,该条用例执行未通过
+2019-09-10 20:18:33,261 - [test_login.py --> line:72] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "D:\class21_api_project\testcases\test_login.py", line 66, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "D:\python\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python\lib\unittest\case.py", line 1112, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\python\lib\unittest\case.py", line 666, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-10 20:18:33,550 - [test_login.py --> line:70] - DEBUG: 注册成功（无昵称）,该条用例执行未通过
+2019-09-10 20:18:33,550 - [test_login.py --> line:72] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "D:\class21_api_project\testcases\test_login.py", line 66, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "D:\python\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python\lib\unittest\case.py", line 1112, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\python\lib\unittest\case.py", line 666, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-10 20:18:33,553 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-10 20:20:11,936 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-10 20:20:20,373 - [test_login.py --> line:40] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-10 20:20:20,544 - [test_login.py --> line:40] - DEBUG: 账户不正确，登陆失败,该条用例执行通过
+2019-09-10 20:20:20,669 - [test_login.py --> line:40] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-10 20:20:20,800 - [test_login.py --> line:40] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-10 20:20:20,945 - [test_login.py --> line:40] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-10 20:20:21,050 - [test_login.py --> line:40] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-10 20:20:21,152 - [test_login.py --> line:40] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-10 20:20:21,282 - [test_login.py --> line:71] - DEBUG: 注册成功（有昵称）,该条用例执行未通过
+2019-09-10 20:20:21,282 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "D:\class21_api_project\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "D:\python\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python\lib\unittest\case.py", line 1112, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\python\lib\unittest\case.py", line 666, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-10 20:20:21,406 - [test_login.py --> line:77] - DEBUG: 已经注册,该条用例执行通过
+2019-09-10 20:20:21,512 - [test_login.py --> line:77] - DEBUG: 手机号码小于11位,该条用例执行通过
+2019-09-10 20:20:21,621 - [test_login.py --> line:77] - DEBUG: 手机号码存在非数字,该条用例执行通过
+2019-09-10 20:20:21,725 - [test_login.py --> line:77] - DEBUG: 手机号为空,该条用例执行通过
+2019-09-10 20:20:21,827 - [test_login.py --> line:77] - DEBUG: 手机号码超11位,该条用例执行通过
+2019-09-10 20:20:21,943 - [test_login.py --> line:77] - DEBUG: 手机号正确，密码小于6位,该条用例执行通过
+2019-09-10 20:20:22,045 - [test_login.py --> line:77] - DEBUG: 手机号正确，密码大于18位,该条用例执行通过
+2019-09-10 20:20:22,173 - [test_login.py --> line:71] - DEBUG: 手机号正确，密码等于6位,该条用例执行未通过
+2019-09-10 20:20:22,173 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "D:\class21_api_project\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "D:\python\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python\lib\unittest\case.py", line 1112, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\python\lib\unittest\case.py", line 666, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-10 20:20:22,290 - [test_login.py --> line:71] - DEBUG: 手机号正确，密码等于18位,该条用例执行未通过
+2019-09-10 20:20:22,290 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "D:\class21_api_project\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "D:\python\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python\lib\unittest\case.py", line 1112, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\python\lib\unittest\case.py", line 666, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-10 20:20:22,389 - [test_login.py --> line:77] - DEBUG: 手机号正确，密码为空,该条用例执行通过
+2019-09-10 20:20:22,519 - [test_login.py --> line:71] - DEBUG: 注册成功（无昵称）,该条用例执行未通过
+2019-09-10 20:20:22,519 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "D:\class21_api_project\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "D:\python\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python\lib\unittest\case.py", line 1112, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\python\lib\unittest\case.py", line 666, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-10 20:20:22,521 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-10 20:23:06,090 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-10 20:23:10,624 - [test_login.py --> line:40] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-10 20:23:10,776 - [test_login.py --> line:40] - DEBUG: 账户不正确，登陆失败,该条用例执行通过
+2019-09-10 20:23:10,896 - [test_login.py --> line:40] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-10 20:23:11,039 - [test_login.py --> line:40] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-10 20:23:11,196 - [test_login.py --> line:40] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-10 20:23:11,298 - [test_login.py --> line:40] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-10 20:23:11,393 - [test_login.py --> line:40] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-10 20:23:11,661 - [test_login.py --> line:77] - DEBUG: 注册成功（有昵称）,该条用例执行通过
+2019-09-10 20:23:11,814 - [test_login.py --> line:77] - DEBUG: 已经注册,该条用例执行通过
+2019-09-10 20:23:11,916 - [test_login.py --> line:77] - DEBUG: 手机号码小于11位,该条用例执行通过
+2019-09-10 20:23:12,018 - [test_login.py --> line:77] - DEBUG: 手机号码存在非数字,该条用例执行通过
+2019-09-10 20:23:12,119 - [test_login.py --> line:77] - DEBUG: 手机号为空,该条用例执行通过
+2019-09-10 20:23:12,219 - [test_login.py --> line:77] - DEBUG: 手机号码超11位,该条用例执行通过
+2019-09-10 20:23:12,311 - [test_login.py --> line:77] - DEBUG: 手机号正确，密码小于6位,该条用例执行通过
+2019-09-10 20:23:12,406 - [test_login.py --> line:77] - DEBUG: 手机号正确，密码大于18位,该条用例执行通过
+2019-09-10 20:23:12,729 - [test_login.py --> line:77] - DEBUG: 手机号正确，密码等于6位,该条用例执行通过
+2019-09-10 20:23:12,999 - [test_login.py --> line:77] - DEBUG: 手机号正确，密码等于18位,该条用例执行通过
+2019-09-10 20:23:13,094 - [test_login.py --> line:77] - DEBUG: 手机号正确，密码为空,该条用例执行通过
+2019-09-10 20:23:13,344 - [test_login.py --> line:77] - DEBUG: 注册成功（无昵称）,该条用例执行通过
+2019-09-10 20:23:13,345 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-15 18:56:37,980 - [mylog.py --> line:41] - INFO: -----------开始启动测试用例----------
+2019-09-15 18:56:37,991 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-15 18:57:52,734 - [mylog.py --> line:41] - INFO: -----------开始启动测试用例----------
+2019-09-15 18:57:52,735 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-15 18:57:56,683 - [test_login.py --> line:40] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-15 18:57:56,868 - [test_login.py --> line:40] - DEBUG: 账户不正确，登陆失败,该条用例执行通过
+2019-09-15 18:57:57,047 - [test_login.py --> line:40] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-15 18:57:57,219 - [test_login.py --> line:40] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-15 18:57:57,371 - [test_login.py --> line:40] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-15 18:57:57,574 - [test_login.py --> line:40] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-15 18:57:57,721 - [test_login.py --> line:40] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-15 18:57:57,886 - [test_login.py --> line:71] - DEBUG: 注册成功（有昵称）,该条用例执行未通过
+2019-09-15 18:57:57,886 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "F:\qianchengdai\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 829, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 1121, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-15 18:57:58,100 - [test_login.py --> line:77] - DEBUG: 已经注册,该条用例执行通过
+2019-09-15 18:57:58,225 - [test_login.py --> line:77] - DEBUG: 手机号码小于11位,该条用例执行通过
+2019-09-15 18:57:58,371 - [test_login.py --> line:77] - DEBUG: 手机号码存在非数字,该条用例执行通过
+2019-09-15 18:57:58,605 - [test_login.py --> line:77] - DEBUG: 手机号为空,该条用例执行通过
+2019-09-15 18:57:58,756 - [test_login.py --> line:77] - DEBUG: 手机号码超11位,该条用例执行通过
+2019-09-15 18:57:58,895 - [test_login.py --> line:77] - DEBUG: 手机号正确，密码小于6位,该条用例执行通过
+2019-09-15 18:57:59,033 - [test_login.py --> line:77] - DEBUG: 手机号正确，密码大于18位,该条用例执行通过
+2019-09-15 18:57:59,184 - [test_login.py --> line:71] - DEBUG: 手机号正确，密码等于6位,该条用例执行未通过
+2019-09-15 18:57:59,184 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "F:\qianchengdai\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 829, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 1121, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-15 18:57:59,325 - [test_login.py --> line:71] - DEBUG: 手机号正确，密码等于18位,该条用例执行未通过
+2019-09-15 18:57:59,325 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "F:\qianchengdai\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 829, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 1121, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-15 18:57:59,519 - [test_login.py --> line:77] - DEBUG: 手机号正确，密码为空,该条用例执行通过
+2019-09-15 18:57:59,681 - [test_login.py --> line:71] - DEBUG: 注册成功（无昵称）,该条用例执行未通过
+2019-09-15 18:57:59,681 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "F:\qianchengdai\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 829, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 1121, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-15 18:57:59,683 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-15 19:22:29,960 - [mylog.py --> line:41] - INFO: -----------开始启动测试用例----------
+2019-09-15 19:22:29,961 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-15 19:22:33,835 - [test_login.py --> line:40] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-15 19:22:33,991 - [test_login.py --> line:40] - DEBUG: 账户不正确，登陆失败,该条用例执行通过
+2019-09-15 19:22:34,144 - [test_login.py --> line:40] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-15 19:22:34,296 - [test_login.py --> line:40] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-15 19:22:34,463 - [test_login.py --> line:40] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-15 19:22:34,595 - [test_login.py --> line:40] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-15 19:22:34,752 - [test_login.py --> line:40] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-15 19:22:34,929 - [test_login.py --> line:71] - DEBUG: 注册成功（有昵称）,该条用例执行未通过
+2019-09-15 19:22:34,929 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "F:\qianchengdai\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 829, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 1121, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-15 19:22:35,105 - [test_login.py --> line:77] - DEBUG: 已经注册,该条用例执行通过
+2019-09-15 19:22:35,233 - [test_login.py --> line:77] - DEBUG: 手机号码小于11位,该条用例执行通过
+2019-09-15 19:22:35,353 - [test_login.py --> line:77] - DEBUG: 手机号码存在非数字,该条用例执行通过
+2019-09-15 19:22:35,494 - [test_login.py --> line:77] - DEBUG: 手机号为空,该条用例执行通过
+2019-09-15 19:22:35,631 - [test_login.py --> line:77] - DEBUG: 手机号码超11位,该条用例执行通过
+2019-09-15 19:22:35,769 - [test_login.py --> line:77] - DEBUG: 手机号正确，密码小于6位,该条用例执行通过
+2019-09-15 19:22:35,905 - [test_login.py --> line:77] - DEBUG: 手机号正确，密码大于18位,该条用例执行通过
+2019-09-15 19:22:36,064 - [test_login.py --> line:71] - DEBUG: 手机号正确，密码等于6位,该条用例执行未通过
+2019-09-15 19:22:36,064 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "F:\qianchengdai\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 829, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 1121, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-15 19:22:36,217 - [test_login.py --> line:71] - DEBUG: 手机号正确，密码等于18位,该条用例执行未通过
+2019-09-15 19:22:36,217 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "F:\qianchengdai\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 829, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 1121, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-15 19:22:36,353 - [test_login.py --> line:77] - DEBUG: 手机号正确，密码为空,该条用例执行通过
+2019-09-15 19:22:36,499 - [test_login.py --> line:71] - DEBUG: 注册成功（无昵称）,该条用例执行未通过
+2019-09-15 19:22:36,499 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "F:\qianchengdai\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 829, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 1121, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-15 19:22:36,502 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-15 19:55:42,631 - [mylog.py --> line:41] - INFO: -----------开始启动测试用例----------
+2019-09-15 19:55:42,631 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-15 19:55:45,959 - [test_login.py --> line:40] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-15 19:55:46,240 - [test_login.py --> line:40] - DEBUG: 账户不正确，登陆失败,该条用例执行通过
+2019-09-15 19:55:46,457 - [test_login.py --> line:40] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-15 19:55:46,667 - [test_login.py --> line:40] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-15 19:55:46,819 - [test_login.py --> line:40] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-15 19:55:46,950 - [test_login.py --> line:40] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-15 19:55:47,072 - [test_login.py --> line:40] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-15 19:55:47,220 - [test_login.py --> line:71] - DEBUG: 注册成功（有昵称）,该条用例执行未通过
+2019-09-15 19:55:47,220 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "F:\jenkins\workspace\nanjinglyl_jiiekouproject\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 829, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 1121, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-15 19:55:47,364 - [test_login.py --> line:77] - DEBUG: 已经注册,该条用例执行通过
+2019-09-15 19:55:47,475 - [test_login.py --> line:77] - DEBUG: 手机号码小于11位,该条用例执行通过
+2019-09-15 19:55:47,603 - [test_login.py --> line:77] - DEBUG: 手机号码存在非数字,该条用例执行通过
+2019-09-15 19:55:47,720 - [test_login.py --> line:77] - DEBUG: 手机号为空,该条用例执行通过
+2019-09-15 19:55:47,827 - [test_login.py --> line:77] - DEBUG: 手机号码超11位,该条用例执行通过
+2019-09-15 19:55:47,967 - [test_login.py --> line:77] - DEBUG: 手机号正确，密码小于6位,该条用例执行通过
+2019-09-15 19:55:48,091 - [test_login.py --> line:77] - DEBUG: 手机号正确，密码大于18位,该条用例执行通过
+2019-09-15 19:55:48,240 - [test_login.py --> line:71] - DEBUG: 手机号正确，密码等于6位,该条用例执行未通过
+2019-09-15 19:55:48,240 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "F:\jenkins\workspace\nanjinglyl_jiiekouproject\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 829, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 1121, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-15 19:55:48,446 - [test_login.py --> line:71] - DEBUG: 手机号正确，密码等于18位,该条用例执行未通过
+2019-09-15 19:55:48,446 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "F:\jenkins\workspace\nanjinglyl_jiiekouproject\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 829, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 1121, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-15 19:55:48,631 - [test_login.py --> line:77] - DEBUG: 手机号正确，密码为空,该条用例执行通过
+2019-09-15 19:55:48,780 - [test_login.py --> line:71] - DEBUG: 注册成功（无昵称）,该条用例执行未通过
+2019-09-15 19:55:48,782 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "F:\jenkins\workspace\nanjinglyl_jiiekouproject\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 829, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 1121, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-15 19:55:48,783 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-15 19:56:06,663 - [mylog.py --> line:41] - INFO: -----------开始启动测试用例----------
+2019-09-15 19:56:06,663 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-15 19:56:13,188 - [test_login.py --> line:40] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-15 19:56:13,332 - [test_login.py --> line:40] - DEBUG: 账户不正确，登陆失败,该条用例执行通过
+2019-09-15 19:56:13,483 - [test_login.py --> line:40] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-15 19:56:13,641 - [test_login.py --> line:40] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-15 19:56:13,775 - [test_login.py --> line:40] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-15 19:56:13,905 - [test_login.py --> line:40] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-15 19:56:15,452 - [test_login.py --> line:40] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-15 19:56:15,600 - [test_login.py --> line:71] - DEBUG: 注册成功（有昵称）,该条用例执行未通过
+2019-09-15 19:56:15,600 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "F:\jenkins\workspace\nanjinglyl_jiiekouproject\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 829, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 1121, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-15 19:56:15,750 - [test_login.py --> line:77] - DEBUG: 已经注册,该条用例执行通过
+2019-09-15 19:56:15,863 - [test_login.py --> line:77] - DEBUG: 手机号码小于11位,该条用例执行通过
+2019-09-15 19:56:15,984 - [test_login.py --> line:77] - DEBUG: 手机号码存在非数字,该条用例执行通过
+2019-09-15 19:56:16,103 - [test_login.py --> line:77] - DEBUG: 手机号为空,该条用例执行通过
+2019-09-15 19:56:16,216 - [test_login.py --> line:77] - DEBUG: 手机号码超11位,该条用例执行通过
+2019-09-15 19:56:16,350 - [test_login.py --> line:77] - DEBUG: 手机号正确，密码小于6位,该条用例执行通过
+2019-09-15 19:56:16,470 - [test_login.py --> line:77] - DEBUG: 手机号正确，密码大于18位,该条用例执行通过
+2019-09-15 19:56:16,611 - [test_login.py --> line:71] - DEBUG: 手机号正确，密码等于6位,该条用例执行未通过
+2019-09-15 19:56:16,611 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "F:\jenkins\workspace\nanjinglyl_jiiekouproject\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 829, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 1121, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-15 19:56:16,758 - [test_login.py --> line:71] - DEBUG: 手机号正确，密码等于18位,该条用例执行未通过
+2019-09-15 19:56:16,758 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "F:\jenkins\workspace\nanjinglyl_jiiekouproject\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 829, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 1121, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-15 19:56:16,884 - [test_login.py --> line:77] - DEBUG: 手机号正确，密码为空,该条用例执行通过
+2019-09-15 19:56:17,049 - [test_login.py --> line:71] - DEBUG: 注册成功（无昵称）,该条用例执行未通过
+2019-09-15 19:56:17,049 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "F:\jenkins\workspace\nanjinglyl_jiiekouproject\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 829, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 1121, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-15 19:56:17,052 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
+2019-09-15 19:56:22,767 - [mylog.py --> line:41] - INFO: -----------开始启动测试用例----------
+2019-09-15 19:56:22,767 - [run.py --> line:12] - INFO: -----------开始启动测试用例----------
+2019-09-15 19:56:28,199 - [test_login.py --> line:40] - DEBUG: 正常登陆成功,该条用例执行通过
+2019-09-15 19:56:28,344 - [test_login.py --> line:40] - DEBUG: 账户不正确，登陆失败,该条用例执行通过
+2019-09-15 19:56:28,484 - [test_login.py --> line:40] - DEBUG: 密码不正确（完全不对），登陆失败,该条用例执行通过
+2019-09-15 19:56:28,705 - [test_login.py --> line:40] - DEBUG: 密码长度小于6，登陆失败,该条用例执行通过
+2019-09-15 19:56:28,860 - [test_login.py --> line:40] - DEBUG: 密码长度大于18，登陆失败,该条用例执行通过
+2019-09-15 19:56:28,980 - [test_login.py --> line:40] - DEBUG: 用户名为空，登陆失败,该条用例执行通过
+2019-09-15 19:56:29,098 - [test_login.py --> line:40] - DEBUG: 密码为空，登陆失败,该条用例执行通过
+2019-09-15 19:56:29,243 - [test_login.py --> line:71] - DEBUG: 注册成功（有昵称）,该条用例执行未通过
+2019-09-15 19:56:29,243 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "F:\jenkins\workspace\nanjinglyl_jiiekouproject\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 829, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 1121, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-15 19:56:29,384 - [test_login.py --> line:77] - DEBUG: 已经注册,该条用例执行通过
+2019-09-15 19:56:29,507 - [test_login.py --> line:77] - DEBUG: 手机号码小于11位,该条用例执行通过
+2019-09-15 19:56:29,625 - [test_login.py --> line:77] - DEBUG: 手机号码存在非数字,该条用例执行通过
+2019-09-15 19:56:29,748 - [test_login.py --> line:77] - DEBUG: 手机号为空,该条用例执行通过
+2019-09-15 19:56:29,868 - [test_login.py --> line:77] - DEBUG: 手机号码超11位,该条用例执行通过
+2019-09-15 19:56:29,998 - [test_login.py --> line:77] - DEBUG: 手机号正确，密码小于6位,该条用例执行通过
+2019-09-15 19:56:30,161 - [test_login.py --> line:77] - DEBUG: 手机号正确，密码大于18位,该条用例执行通过
+2019-09-15 19:56:31,115 - [test_login.py --> line:71] - DEBUG: 手机号正确，密码等于6位,该条用例执行未通过
+2019-09-15 19:56:31,115 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "F:\jenkins\workspace\nanjinglyl_jiiekouproject\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 829, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 1121, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-15 19:56:31,273 - [test_login.py --> line:71] - DEBUG: 手机号正确，密码等于18位,该条用例执行未通过
+2019-09-15 19:56:31,275 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "F:\jenkins\workspace\nanjinglyl_jiiekouproject\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 829, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 1121, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-15 19:56:31,424 - [test_login.py --> line:77] - DEBUG: 手机号正确，密码为空,该条用例执行通过
+2019-09-15 19:56:31,614 - [test_login.py --> line:71] - DEBUG: 注册成功（无昵称）,该条用例执行未通过
+2019-09-15 19:56:31,615 - [test_login.py --> line:73] - ERROR: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+Traceback (most recent call last):
+  File "F:\jenkins\workspace\nanjinglyl_jiiekouproject\testcases\test_login.py", line 65, in test_cases_register
+    self.assertEqual(response, excepted)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 829, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 1121, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: {'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'} != {'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+- {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           ^  --                         ------               ^
+
++ {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?           ^^^                             ++             ^
+
+2019-09-15 19:56:31,615 - [run.py --> line:27] - INFO: ----------该次所有用例执行完毕--------------
